@@ -2,6 +2,7 @@
 Tests and experiments using software Learning techniques.
 
 ## Kaggle
+ - [Convolution Neural Netowrk to classify digits.](https://www.kaggle.com/lpugens/digit-recognizer)
  - [Fine-tunning MobileNetV2 for the Intel Image Classification dataset using Keras.](https://www.kaggle.com/lpugens/intel-image-classification?scriptVersionId=38561906)
  - [Fine-tunning MobileNetV2 for identifying Pokémon main types.](https://www.kaggle.com/lpugens/pokemon-type-classification)
  
