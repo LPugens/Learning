@@ -10,4 +10,4 @@ Tests and experiments using software Learning techniques.
  - [Identify authors from Gutenberg.](https://colab.research.google.com/drive/17_NJ5BKurkabUasSLDnGDbdfYxvC1mXp?usp=sharing)
 
 ## Datasets
- - [Generate object identification of mnist.](https://colab.research.google.com/drive/1vRiGR-KS5kyiXWVMYDPAYVAbC67NxN_m?usp=sharing)
+ - [Generate object detection of mnist.](https://colab.research.google.com/drive/1vRiGR-KS5kyiXWVMYDPAYVAbC67NxN_m?usp=sharing)
