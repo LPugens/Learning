@@ -8,7 +8,7 @@ Tests and experiments using software Learning techniques.
  - [Autoencoder.](https://colab.research.google.com/drive/1wJAayv5JVMxffRCZKUkGVfpY8yMzv3gH?usp=sharing)
  
 ## NLP
- - [Identify authors from Gutenberg.](https://colab.research.google.com/drive/17_NJ5BKurkabUasSLDnGDbdfYxvC1mXp?usp=sharing)Image
+ - [Identify authors from Gutenberg.](https://colab.research.google.com/drive/17_NJ5BKurkabUasSLDnGDbdfYxvC1mXp?usp=sharing)
 
 ## Datasets
  - [Generate object detection of mnist.](https://colab.research.google.com/drive/1vRiGR-KS5kyiXWVMYDPAYVAbC67NxN_m?usp=sharing)
