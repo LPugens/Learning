@@ -12,3 +12,7 @@ Tests and experiments using software Learning techniques.
 
 ## Datasets 📈
  - [Generate object detection of mnist.](https://colab.research.google.com/drive/1vRiGR-KS5kyiXWVMYDPAYVAbC67NxN_m?usp=sharing)
+
+## [MIT Intro to Deep Leaning 🎓](http://introtodeeplearning.com/)
+ - [Lab 1.1 (intro)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part1_TensorFlow.ipynb)
+ - [Lab 1.2 (music generation)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part2_Music_Generation.ipynb)
