@@ -13,3 +13,6 @@
 ## [MIT Intro to Deep Leaning 🎓](http://introtodeeplearning.com/)
  - [Lab 1.1 (intro)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part1_TensorFlow.ipynb)
  - [Lab 1.2 (music generation)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part2_Music_Generation.ipynb)
+ - [Lab 2.1 (mnist)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/lab2/Part1_MNIST.ipynb)
+ - [Lab 2.2 (debiasing)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/lab2/Part2_Debiasing.ipynb)
+ - [Lab 3 (reinforcement learning)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/lab3/RL.ipynb)
