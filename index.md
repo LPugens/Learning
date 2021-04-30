@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Learning
+Tests and experiments using software Learning techniques.
 
-You can use the [editor on GitHub](https://github.com/LPugens/Learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Image 📷
+ - [Convolution Neural Network to classify digits.](https://www.kaggle.com/lpugens/digit-recognizer)
+ - [Fine-tunning MobileNetV2 for the Intel Image Classification dataset using Keras.](https://www.kaggle.com/lpugens/intel-image-classification?scriptVersionId=38561906)
+ - [Fine-tunning MobileNetV2 for identifying Pokémon main types.](https://www.kaggle.com/lpugens/pokemon-type-classification)
+ - [Autoencoder.](https://colab.research.google.com/drive/1wJAayv5JVMxffRCZKUkGVfpY8yMzv3gH?usp=sharing)
+ 
+## NLP 📝
+ - [Identify authors from Gutenberg.](https://colab.research.google.com/drive/17_NJ5BKurkabUasSLDnGDbdfYxvC1mXp?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Datasets 📈
+ - [Generate object detection of mnist.](https://colab.research.google.com/drive/1vRiGR-KS5kyiXWVMYDPAYVAbC67NxN_m?usp=sharing)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LPugens/Learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [MIT Intro to Deep Leaning 🎓](http://introtodeeplearning.com/)
+ - [Lab 1.1 (intro)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part1_TensorFlow.ipynb)
+ - [Lab 1.2 (music generation)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/Part2_Music_Generation.ipynb)
