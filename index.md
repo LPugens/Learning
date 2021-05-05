@@ -23,7 +23,7 @@ Here are the main projects and experiments I researshed.
 ## [Imersão de Dados Alura 2021 (Alura Data Immersion)](https://www.alura.com.br/imersao-dados)
  - Cursing 👨‍💻...
 
-## Update sources:
+## Update sources
  - [Practical AI podcast 🎧](https://changelog.com/practicalai/)
  - [Peixe Babel 🎥](https://www.youtube.com/c/PeixeBabel)
  - [Tensorflow Channel 🎥](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
