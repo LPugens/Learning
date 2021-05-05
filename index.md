@@ -25,6 +25,7 @@ Here are the main projects and experiments I researshed.
 
 ## Update sources:
  - [Practical AI podcast 🎧](https://changelog.com/practicalai/)
+ - [Peixe Babel 🎥](https://www.youtube.com/c/PeixeBabel)
  - [Tensorflow Channel 🎥](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
  - [Siraj Raval 🎥](https://www.youtube.com/c/SirajRaval/videos)
  - [Two Minute Papers 🎥](https://www.youtube.com/user/keeroyz)
