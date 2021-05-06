@@ -21,6 +21,8 @@ Here are the main projects and experiments I researshed.
  - [Lab 3 (reinforcement learning)](https://github.com/LPugens/Learning/blob/master/MIT%20Introduction%20to%20Deep%20Learning/lab3/RL.ipynb)
 
 ## [Imersão de Dados Alura 2021 (Alura Data Immersion)](https://www.alura.com.br/imersao-dados)
+ - [Class 01](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_01.ipynb)
+ - [Class 02](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_02.ipynb)
  - Coursing 👨‍💻...
 
 ## Update sources
