@@ -24,6 +24,7 @@ Here are the main projects and experiments I researshed.
  - [Class 01](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_01.ipynb)
  - [Class 02](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_02.ipynb)
  - [Class 03](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_03.ipynb)
+ - [Class 04](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_04.ipynb)
  - Coursing 👨‍💻...
 
 ## Update sources
