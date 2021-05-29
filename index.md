@@ -26,7 +26,7 @@ Here are the main projects and experiments I researshed.
  - [Class 03](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_03.ipynb)
  - [Class 04](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_04.ipynb)
  - [Class 05](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_05.ipynb)
- - Coursing 👨‍💻...
+ - [Final project](https://github.com/LPugens/imersao-dados-desafio-final)
 
 ## Update sources
  - [Practical AI podcast 🎧](https://changelog.com/practicalai/)
