@@ -1,6 +1,9 @@
 # Learning story ☕
 Here are the main projects and experiments I researshed.
 
+## [Project Euler](https://projecteuler.net) 🧩
+- [Python Solutions](https://github.com/LPugens/EulerPython)
+
 ## Image 📷
  - [Convolution Neural Network to classify digits.](https://www.kaggle.com/lpugens/digit-recognizer)
  - [Fine-tunning MobileNetV2 for the Intel Image Classification dataset using Keras.](https://www.kaggle.com/lpugens/intel-image-classification?scriptVersionId=38561906)
