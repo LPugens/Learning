@@ -1,9 +1,6 @@
 # Learning story ☕
 Here are the main projects and experiments I researshed.
 
-## [Project Euler](https://projecteuler.net) 🧩
-- [Python Solutions](https://github.com/LPugens/EulerPython)
-
 ## Image 📷
  - [Convolution Neural Network to classify digits.](https://www.kaggle.com/lpugens/digit-recognizer)
  - [Fine-tunning MobileNetV2 for the Intel Image Classification dataset using Keras.](https://www.kaggle.com/lpugens/intel-image-classification?scriptVersionId=38561906)
@@ -30,6 +27,9 @@ Here are the main projects and experiments I researshed.
  - [Class 04](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_04.ipynb)
  - [Class 05](https://github.com/LPugens/Learning/blob/master/Imers%C3%A3o%20de%20dados%20Alura%202021/Aula_05.ipynb)
  - [Final project](https://github.com/LPugens/imersao-dados-desafio-final)
+
+## [Project Euler](https://projecteuler.net) 🧩
+- [Python Solutions](https://github.com/LPugens/EulerPython)
 
 ## Update sources
  - [Practical AI podcast 🎧](https://changelog.com/practicalai/)
